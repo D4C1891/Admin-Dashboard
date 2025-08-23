@@ -1,1 +1,1 @@
-This is a project I am undertaking as part of The Odin Project. This project shows that I have a intermediate level of knowledge on HTML and CSS, as well as CSS Grid, and Flexbox.
+This is a project I am undertaking as part of The Odin Project. This project shows that I have a intermediate level of knowledge on HTML and CSS, as well as CSS Grid, and Flexbox. I attempted to imitate the design-layout that The Odin Project gave as a example. It is not perfect, but I am satisfied with the way the website turned out, and eager to continue improving my web-design skills.
